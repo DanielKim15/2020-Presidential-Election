@@ -1,4 +1,4 @@
-# 2020-Presidential-Election
+# 2020-Presidential-Election Results
 
 From the data it shows that Biden supporters are more likely to do absentee votes than Trump Supporters in election.
 ![](2020_Election_Absentee.jpeg)
