@@ -1,4 +1,8 @@
 # 2020-Presidential-Election Results
+The 2020 Presidential Election was definately a night (or should I say week) to remember. Not only did this voting event broke several records from past elections, it also has the most in depth data to this date. I'm going to show you some insights I found in this phenomenon.
+
+The Data: 
+To begin the analysis, I used the New York Times Presidential Election Dataset as my source. The 
 
 From the data it shows that Biden supporters are more likely to do absentee votes than Trump Supporters in election.
 ![](2020_Election_Absentee.jpeg)
